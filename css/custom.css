@@ -1,0 +1,6 @@
+h1 .hi #Mytext {
+  border: 2px solid black;
+  background-color: lightgrey;
+}
+
+/* try # as an ID. . is a class without any is a type
